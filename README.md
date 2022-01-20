@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heavy0ung
-- 👀 I’m interested in ... healthcare informatics, DS, ML, football, crossfit
-- 🌱 I’m currently learning ... ML
+- 👀 I’m interested in ... healthcare informatics, DataScience, Machine Learning, Football, crossfit
+- 🌱 I’m currently learning ... Machine Learning
 - 📗 I’m studying in ... DataScience, SKKU
 - 📫 How to reach me ... rooney0527@naver.com
 
